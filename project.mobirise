@@ -36,10 +36,17 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "6.1.12",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Inter Tight', sans-serif",
+        "name": "Inter Tight",
+        "url": "https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
     "publishChangesOnly": true,
     "uniqCompNum": 29,
-    "versionPublish": "6.1.12"
+    "versionPublish": "6.1.12",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
