@@ -46,7 +46,8 @@
     "publishChangesOnly": true,
     "uniqCompNum": 29,
     "versionPublish": "6.1.12",
-    "imageResize": true
+    "imageResize": true,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
